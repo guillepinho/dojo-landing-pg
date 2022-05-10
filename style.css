@@ -55,12 +55,27 @@ nav ul {
     font-size: 20px;
 }
 
+
 .socialmedia-icon {
     width: 64px;
 }
 
 .contact {
     text-align: center;
+
+
+#first-section {
+    margin: 10px 5px 0px 5px;
+}
+
+#sobre-nos {
+    size: 32px;
+    margin-left: 10px;
+}
+
+#first-p {
+    size: 20px;
+
 }
 
 #page-footer {
