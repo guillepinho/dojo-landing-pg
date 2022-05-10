@@ -50,6 +50,7 @@ nav ul {
     font-size: 20px;
 }
 
+
 #first-section {
     margin: 10px 5px 0px 5px;
 }
@@ -62,3 +63,16 @@ nav ul {
 #first-p {
     size: 20px;
 }
+
+#page-footer {
+    background-color: #FFC5E5;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    margin-top: 100px;
+  }
+  
+  #page-footer p {
+    margin: 40px 0 0 60px;
+  }
